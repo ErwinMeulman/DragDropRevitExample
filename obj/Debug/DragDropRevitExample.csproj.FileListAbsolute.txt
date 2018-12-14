@@ -1,0 +1,9 @@
+F:\DragDropRevitExample\obj\Debug\DragDropRevitExample.csprojResolveAssemblyReference.cache
+F:\DragDropRevitExample\obj\Debug\DragDropRevitExample.Form1.resources
+F:\DragDropRevitExample\obj\Debug\DragDropRevitExample.Properties.Resources.resources
+F:\DragDropRevitExample\obj\Debug\DragDropRevitExample.csproj.GenerateResource.cache
+F:\DragDropRevitExample\obj\Debug\DragDropRevitExample.csproj.CoreCompileInputs.cache
+F:\DragDropRevitExample\obj\Debug\DragDropRevitExample.exe
+F:\DragDropRevitExample\obj\Debug\DragDropRevitExample.pdb
+F:\DragDropRevitExample\bin\Debug\DragDropRevitExample.exe
+F:\DragDropRevitExample\bin\Debug\DragDropRevitExample.pdb
